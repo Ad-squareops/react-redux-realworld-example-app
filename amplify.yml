@@ -1,6 +1,7 @@
 version: 1
 env:
-  backend_domain_name: https://BACKEND_URL
+  variables:
+    backend_domain_name: https://BACKEND_URL
 
 frontend:
   phases:
