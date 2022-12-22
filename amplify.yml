@@ -1,7 +1,7 @@
 version: 1
 env:
   variables:
-    backend_domain_name: https://BACKEND_URL
+    backend_domain_name: https://abb.rtd.squareops.co.in
 
 frontend:
   phases:
