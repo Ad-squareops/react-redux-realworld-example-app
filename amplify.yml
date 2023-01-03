@@ -1,7 +1,7 @@
 version: 1
 env:
   variables:
-    backend_domain_name: https://abb.rtd.squareops.co.in
+    backend_domain_name: https://aditya.rtd.squareops.co.in
 
 frontend:
   phases:
