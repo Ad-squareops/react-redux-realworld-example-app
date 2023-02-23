@@ -1,7 +1,7 @@
 version: 1
 env:
   variables:
-    backend_domain_name: https://aditya.ldc.squareops.in
+    backend_domain_name: https://adi-ALB-L2P6-1655684484.us-west-2.elb.amazonaws.com
 
 frontend:
   phases:
